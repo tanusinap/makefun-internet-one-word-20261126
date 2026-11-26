@@ -4,8 +4,11 @@ Prints a single word for the whole internet.
 """
 
 
+LINE = "Doomscroll"
+
+
 def main() -> str:
-    return "Doomscroll"
+    return LINE
 
 
 if __name__ == "__main__":
